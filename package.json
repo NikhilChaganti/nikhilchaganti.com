@@ -1,0 +1,34 @@
+{
+    "projects": [
+      {
+        "title": "Business Analysis on Rapido Application",
+        "description": "The Platform as a Service model aligns well with Rapido's existing business structure. By leveraging PaaS, Rapido can efficiently expand into mobile commerce, B2B marketplace, and collaborative commerce.",
+        "link": "#"
+      },
+      {
+        "title": "Tweet Categorization using Sentiment Analysis",
+        "description": "The aim of this project is to develop a sentiment-based recommendation system for tweets, providing users with relevant content aligned with their expressed sentiments.",
+        "link": "#"
+      },
+      {
+        "title": "Road Accident Predicting System using Data Mining",
+        "description": "This project involved analyzing historical accident data to uncover trends and patterns using data mining techniques.",
+        "link": "#"
+      }
+    ],
+    "courses": [
+      {
+        "title": "Management Information Systems",
+        "description": "A comprehensive study of managing organizational information systems."
+      },
+      {
+        "title": "Data Mining",
+        "description": "Techniques for extracting valuable insights from large datasets."
+      },
+      {
+        "title": "Social Media Analytics",
+        "description": "Analyzing social media data to extract patterns and insights."
+      }
+    ]
+  }
+  
