@@ -131,7 +131,7 @@ h1 {
   
   .projects .project {
     width: 48%;
-    background-color: #fafafa;
+    background-color: #a71e1e;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
@@ -150,7 +150,7 @@ h1 {
   }
   
   .projects .project p {
-    color: #666;
+    color: #df1212;
     line-height: 1.6;
   }
   
@@ -281,3 +281,33 @@ h1 {
     padding: 1em 0;
   }
   
+/* Styling for the Download Resume link */
+.hero li {
+  list-style: none;
+  margin-top: 20px;
+}
+
+.hero li a {
+  text-decoration: none;
+  display: inline-block;
+  color: white;
+  background-color: #1313ea; /* Green background */
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 16px;
+  transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.hero li a:hover {
+  background-color: #313171; /* Darker green on hover */
+  transform: translateY(-3px); /* Slight lift on hover */
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2); /* More pronounced shadow on hover */
+}
+
+.hero li a:active {
+  background-color: #06065d; /* Even darker green when clicked */
+  transform: translateY(0); /* Reset lift */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Reset shadow */
+}
