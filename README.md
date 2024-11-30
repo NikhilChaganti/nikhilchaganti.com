@@ -74,14 +74,14 @@
           <li>Gained proficiency in SQL, ETL, and AI & Analytics.</li>
         </ul>
       </div>
-      <div class="job">
+      <!-- <div class="job">
         <h3>Entry-Level Database Developer</h3>
         <p><strong>Accenture</strong> | June 2020 – January 2022</p>
         <ul>
           <li>Optimized database performance and designed disaster recovery plans.</li>
           <li>Implemented security policies to safeguard data.</li>
         </ul>
-      </div>
+      </div> >
     </div>
   </section>
 
