@@ -81,7 +81,7 @@
           <li>Optimized database performance and designed disaster recovery plans.</li>
           <li>Implemented security policies to safeguard data.</li>
         </ul>
-      </div> >
+      </div> -->
     </div>
   </section>
 
